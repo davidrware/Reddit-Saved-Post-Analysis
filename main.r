@@ -1,6 +1,6 @@
 
 #if(!exists("mydb")){
-mydb = dbConnect(MySQL(),user="davew",password="tandy23",dbname="redditsaved",host="sextoysfor.me")
+mydb = dbConnect(MySQL(),user="",password="",dbname="redditsaved",host="")
 #}
 
 #To get available tables
